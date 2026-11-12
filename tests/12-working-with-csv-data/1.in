@@ -1,0 +1,4 @@
+date,customer,item,qty,price
+d1,"Smith, John",pen,2,1.50
+d2,Ann,ink,1,4.25
+d3,Ann,pad,x,2

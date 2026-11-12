@@ -1,0 +1,5 @@
+ok 3
+error ZeroDivisionError
+error KeyError
+error ValueError
+done: 1 ok, 3 failed, 4 lines

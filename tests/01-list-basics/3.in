@@ -1,0 +1,9 @@
+8
+insert 0 b
+insert 0 a
+insert 1 x
+show
+remove x
+show
+undo
+show

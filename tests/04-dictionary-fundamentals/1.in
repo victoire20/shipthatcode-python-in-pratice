@@ -1,0 +1,9 @@
+8
+put ann math 90
+put ann art 75
+put bo math 90
+get ann math
+get cy math
+report ann
+best math
+report cy

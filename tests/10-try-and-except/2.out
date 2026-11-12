@@ -1,0 +1,5 @@
+ok 30
+ok 12
+ok 10
+error IndexError
+done: 3 ok, 1 failed, 4 lines

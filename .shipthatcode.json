@@ -1,0 +1,58 @@
+{
+  "course": "python-in-practice",
+  "language": "python",
+  "language_id": 1071,
+  "entrypoint": "main.py",
+  "version": 1,
+  "content_hash": "692532e46f48e8f8",
+  "lessons": [
+    {
+      "slug": "list-basics",
+      "tests_hash": "bfbeaf29a899"
+    },
+    {
+      "slug": "list-comprehensions",
+      "tests_hash": "8c20a3681da1"
+    },
+    {
+      "slug": "tuples-and-unpacking",
+      "tests_hash": "86f1b1a422e1"
+    },
+    {
+      "slug": "dictionary-fundamentals",
+      "tests_hash": "b12b41d32b80"
+    },
+    {
+      "slug": "dictionary-techniques",
+      "tests_hash": "3a31abe0c772"
+    },
+    {
+      "slug": "sets-and-operations",
+      "tests_hash": "0fa84adf2e57"
+    },
+    {
+      "slug": "defining-functions",
+      "tests_hash": "cfe16f9d46df"
+    },
+    {
+      "slug": "arguments-and-scope",
+      "tests_hash": "c181bf4a5547"
+    },
+    {
+      "slug": "higher-order-functions",
+      "tests_hash": "c128a029f21f"
+    },
+    {
+      "slug": "try-and-except",
+      "tests_hash": "0b20401b16f4"
+    },
+    {
+      "slug": "raising-exceptions",
+      "tests_hash": "9cb7209c4606"
+    },
+    {
+      "slug": "working-with-csv-data",
+      "tests_hash": "825bec311e83"
+    }
+  ]
+}

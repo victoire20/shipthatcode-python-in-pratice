@@ -1,0 +1,7 @@
+6
+put kim art 70
+put kim math 88
+drop kim art
+report kim
+get kim art
+get kim math
