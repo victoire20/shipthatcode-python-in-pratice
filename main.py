@@ -28,11 +28,11 @@ while True:
         elif cmd == "remove":
             if " ".join(args) in items:
                 items.remove(" ".join(args))
-                history.append(items.copy())
+            history.append(items.copy())
         elif cmd == "pop":
             if len(items) > 0:
                 items.pop()
-                history.append(items.copy())
+            history.append(items.copy())
         elif cmd == "reverse":
             items.reverse()
             history.append(items.copy())
